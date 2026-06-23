@@ -69,12 +69,12 @@
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
-](https://linkedin.com/in/your-profile)
+https://www.linkedin.com/in/kaveri-k-017761292
 [
 
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
-](mailto: kaverikuppan05@gmail.com)
+kaverikuppan05@gmail.com
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
