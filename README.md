@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Kaveri%20Kuppan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Frontend%20%26%20Python%20Full%20Stack%20Developer&descAlignY=55&descSize=16"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hi+There!+I'm+Kaveri+👋;Frontend+Developer;Python+Full+Stack+Developer;Always+Learning+New+Things+🚀" alt="Typing SVG" />
 
